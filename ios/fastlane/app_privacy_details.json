@@ -1,0 +1,12 @@
+[
+    {
+        "category": "NAME",
+        "purposes": [
+            "THIRD_PARTY_ADVERTISING"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU",
+            "DATA_USED_TO_TRACK_YOU"
+        ]
+    }
+]
